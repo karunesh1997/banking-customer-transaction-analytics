@@ -64,6 +64,8 @@ Segmented customers based on transaction activity.
 ## Dashboard
 
 The Power BI dashboard provides:
+<img width="823" height="613" alt="image" src="https://github.com/user-attachments/assets/5cf9a17a-c6aa-4470-a0d8-921d5a138d17" />
+
 
 - Executive KPIs
 - Monthly transaction trends
