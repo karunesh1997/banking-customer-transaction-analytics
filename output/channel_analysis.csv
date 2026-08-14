@@ -1,0 +1,7 @@
+channel,transaction_count,total_transaction_value,avg_transaction_value
+UPI,320005,2120327028.16,6625.92
+Mobile Banking,199509,1290347169.97,6467.61
+Card,149640,988351067.79,6604.86
+Internet Banking,150433,968505650.28,6438.12
+ATM,120395,766693659.08,6368.15
+Branch,60018,413925042.0,6896.68

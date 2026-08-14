@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data
+data/*.csv
+
+# Spark output
+output/_temporary/
+output/*/_SUCCESS
+output/*/part-*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

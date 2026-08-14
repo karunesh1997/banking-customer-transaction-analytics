@@ -1,0 +1,4 @@
+customer_segment,customer_count,avg_transactions,avg_customer_value
+High Activity,1109,31.54,207878.43
+Medium Activity,43614,20.6,134843.23
+Low Activity,5277,12.6,82728.79
